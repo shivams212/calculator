@@ -19,6 +19,7 @@ arr.forEach(button => {
             // let shivam = string;
             // let result = parseInt(shivam.substring(0, shivam.length));
             // input.value = result;
+            //Trial
         }
         else if(e.target.innerHTML == '√'){
             string = Math.sqrt(string);
